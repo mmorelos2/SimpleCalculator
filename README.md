@@ -1,6 +1,6 @@
 Created by: Mario Luis Morelos
 
-Project Name: Simple Calculator
+Project Name: Calculator App
 
 Description:
 This app is a simple calculator that includes operations for addition, subtraction, multiplication, and division.
