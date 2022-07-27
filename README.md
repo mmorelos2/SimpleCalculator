@@ -10,3 +10,6 @@ If the calculator ever gives an error, you can press the clear button to reset e
 
 How to run:
 Clone the git repository and go to the directory holding the repository using your command line. Run the command "npm start".
+
+License:
+MIT License - Copyright (c) 2022 Mario Luis Morelos
